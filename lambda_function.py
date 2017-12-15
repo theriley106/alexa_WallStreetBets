@@ -47,7 +47,7 @@ def martinCheck():
 		"type": "PlainText",
 		"text": text
 			},
-			"shouldEndSession": False
+			"shouldEndSession": True
 		  }
 		}
 
@@ -91,7 +91,7 @@ def getAdvice():
 		"type": "PlainText",
 		"text": text
 			},
-			"shouldEndSession": False
+			"shouldEndSession": True
 		  }
 		}
 
@@ -105,7 +105,7 @@ def devInfo():
 		"type": "PlainText",
 		"text": text
 			},
-			"shouldEndSession": False
+			"shouldEndSession": True
 		  }
 		}
 
@@ -172,7 +172,7 @@ def returnComment():
 	"type": "PlainText",
 	"text": getRandomComment().replace('corporation', '').replace('incorporated', '').replace(', the', '')
 		},
-		"shouldEndSession": False
+		"shouldEndSession": True
 	  }
 	}
 
