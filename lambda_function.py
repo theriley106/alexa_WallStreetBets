@@ -4,9 +4,9 @@ import random
 import re
 import csv
 
-STOCKS = ["Jay Nug", "Ayy Em Dee", "Tesla", "Nvidia", "AMD", "Dry Ships Incorporated", 'turing pharmaceuticals', "Bitcoin", "any fucking cryptocurrency I don't care"]
+STOCKS = ["Jay Nug", "Ayy Em Dee", "Tesla", "Nvidia", "AMD", "Dry Ships Incorporated", 'turing pharmaceuticals', "Bitcoin", "any cryptocurrency I don't care"]
 POSTITION = ["Short", "Long", "Puts", "Calls"]
-SPEND = ['a nintendo switch', 'an apartment to move out of your moms basement', 'a gaming computer', 'a girlfriend','a fucking yacht', 'a gym membership', 'cryptocurrency']
+SPEND = ['a nintendo switch', 'an apartment', 'a gaming computer', 'a girlfriend','a yacht', 'a gym membership', 'cryptocurrency']
 JAILNAMES = ['in the slammer', 'in jail', 'in the joint', 'stuck in the jailhouse', 'locked up', 'in the clink bro', 'in the clink', ' locked up in the penitentiary']
 
 DD = ['doing some expert due diligence', 'getting my MBA from harvard university', 'rolling a dice', 'asking stocktwits', 'asking your mom', 'shaking a magic 8 ball', 'googling it', 'gaining some basic common sense', 'subscribing to wallstreetbets', 'making a thread on biz', 'cancelling my montley fool subscription']
