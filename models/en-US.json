@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "wallstreet bets",
+      "intents": [
+        {
+          "name": "aboutDev",
+          "samples": [
+            "who made this app",
+            "who made this",
+            "copyright info",
+            "who created this app",
+            "tell me about the dev",
+            "who is the dev",
+            "what is the copyright on this app",
+            "github",
+            "reddi",
+            "contact app",
+            "tell me about the developer",
+            "who developed this app"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "getAdvice",
+          "samples": [
+            "advice please",
+            "more advice",
+            "what stocks should i buy today",
+            "what advice do you have for me",
+            "give me advice",
+            "advice",
+            "what should i buy today",
+            "generate advice",
+            "come up with advice",
+            "come up with expert advice"
+          ]
+        },
+        {
+          "name": "martinCheck",
+          "samples": [
+            "is martin shkreli still in jail",
+            "where is martin shkreli",
+            "is martin shell e still in jail",
+            "is martin still in jail",
+            "jail",
+            "if martin shkreli is still in jail",
+            "martin shkreli in jail"
+          ]
+        },
+        {
+          "name": "whatMoves",
+          "samples": [
+            "what should i buy",
+            "give me a move",
+            "what are your moves",
+            "what should i do",
+            "what should i do today",
+            "what is your move",
+            "your move",
+            "automod move",
+            "what moves are you doing today",
+            "what did you move",
+            "what moves did you did you do today",
+            "what did everyone do today",
+            "what are his moves",
+            "what are its moves",
+            "what are the move"
+          ]
+        }
+      ]
+    }
+  }
+}

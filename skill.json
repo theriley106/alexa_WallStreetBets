@@ -1,0 +1,52 @@
+{
+  "skillManifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Alexa companion for the WallStreetBets investment community",
+          "examplePhrases": [
+            "Alexa, Launch Wallstreet Bets",
+            "Alexa, ask Wallstreet Bets for advice",
+            "Alexa, ask Wallstreet Bets if Martin Shkreli is still in jail"
+          ],
+          "keywords": [
+            "investment",
+            "funny",
+            "4chan",
+            "reddit",
+            "wallstreetbets",
+            "stocktwits",
+            "investing",
+            "advice",
+            "finance",
+            "medicine"
+          ],
+          "name": "WallStreetBets",
+          "smallIconUri": "https://api.amazonalexa.com/v0/skills/amzn1.ask.skill.720122ea-9e40-4694-a492-cae2e900f6fb/images/eyJkIjoiQ1I5dFZ5Z2xpQ29LZUlWSDZMMHdjWWVqRFdSdXloQlpkRk9NKzF4LzhGTDJnbWRvQ1RDUEMvTDJJMTFrZ3NmRWw2RnEvWGU2dVU1c1lwSVhEREkrSEY4RzhJbXNaY0Q3QURiQk12ZkVYd1dtalhodURvNTBDZ0tvSVJSK2djL3EiLCJpdiI6IkNScnBpRUNlaDl4UUhpRE1CbDM4clE9PSIsInYiOjF9",
+          "description": "Alexa companion for the WallStreetBets investment community.  This skill can give you investment advice, tell you \"What its moves are today\", and even let you know the conviction status of certain members of the community.",
+          "largeIconUri": "https://api.amazonalexa.com/v0/skills/amzn1.ask.skill.720122ea-9e40-4694-a492-cae2e900f6fb/images/eyJkIjoiUWtGNDdVMVVEYno5UHNHVFEvSjY0amFnVmpWeVdqZTlCWS8xVEJDR1FzNkY3Ny9pWnp3enFGazB3dW9RRHdFbExLWkl0WVk4NFJxcEZ3aSs0NXZXU0xNS0FGZWZEeGNVVXVMaU5NV2liZ1EzNlBzT3VlS1ZHZWFkZHRaSUpGeUJTL013cDN6Y1FtNG42MEFTcnJiQndRPT0iLCJpdiI6InIrMUdTUGpaL1N0Q1BXbXIzWW9aaGc9PSIsInYiOjF9"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instructions needed.",
+      "category": "BUSINESS_AND_FINANCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sslCertificateType": "Wildcard",
+          "sourceDir": "lambda/custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
