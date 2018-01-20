@@ -2,7 +2,7 @@
 
 ## Alexa skill surrounding the /r/WallStreetBets investment community.  You can ask the skill to give investment advice, news updates, and more...
 
-[![N|Solid](src/wsb.png =250x250)](#)
+<img src="src/wsb.png" width="70">
 
 ## [Enable the Alexa Skill Here](https://www.amazon.com/Theriley106-WallStreetBets/dp/B0788ZRVLV)
 
