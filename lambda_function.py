@@ -226,7 +226,3 @@ def build_response(session_attributes, speechlet_response):
 		"sessionAttributes": session_attributes,
 		"response": speechlet_response
 	}
-
-if __name__ == '__main__':
-	pass
-	#print lambda_handler('event', 'context')
