@@ -154,7 +154,7 @@ def getRandomComment():
 		if "$" in word:
 			if len(''.join(re.findall("[a-zA-Z]+", word))) == len(word) - 1:
 				comment.replace(word, getTicker(word))'''
-	f = open('moves.txt','r')
+	f = open('interactions/moves.txt','r')
 	message = f.read()
 	comments = message.split('\n')
 	f.close()
