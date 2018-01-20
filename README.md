@@ -1,6 +1,6 @@
 # alexa_WallStreetBets
 
-Alexa skill surrounding the /r/WallStreetBets investment community.  You can ask the skill to give investment advice, news updates, and more...
+## Alexa skill surrounding the /r/WallStreetBets investment community.  You can ask the skill to give investment advice, news updates, and more...
 
 [![N|Solid](src/wsb.png)](#)
 
